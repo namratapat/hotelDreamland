@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.clear {
+    clear: both;
+}
+
+.wrapper {
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    background: #FFFFFF;
+}
+.top-navigation-wrapper {
+    color: #ffffff;
+    position: relative;
+    z-index: 98;
+    background-color: #2668af;
+}
+.top-navigation-left-text {
+    font-size: 12px;
+    padding: 14px 0px 13px;
+    line-height: 18px;
+}
+.box {
+    margin-left: 10px;
+}
+
+.container-box {
+    margin:10px 100px;
+    height: 200px;
+} 
+.gdlr-page-title-wrapper{
+    text-align: center;
+    padding-top: 20px;
+    color: #FFFFFF;
+}
+.facility {
+    margin:30px 90px;
+}
+
+.map iframe {
+    height: 30vh;
+    width: 100%;
+}
